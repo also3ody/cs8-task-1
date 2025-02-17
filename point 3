@@ -1,0 +1,23 @@
+// find the erors in this code :
+
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    int a = 1000000,b = 1000000;
+    cout >> a*b << end;
+}
+
+//this is the code after fixing all the errors
+
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    long long  a = 1000000,b = 1000000;
+    cout << a*b << endl;
+}
