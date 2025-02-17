@@ -1,0 +1,17 @@
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    float num1,num2,sum,sub,div,multiple;
+    cout << "please enter the first number : ";
+    cin >> num1;
+    cout << "please enter the second number : ";
+    cin >> num2;
+    sum = num1+num2;
+    sub = num1-num2;
+    div = num1/num2;
+    multiple = num1*num2;
+    cout << "Addition = "<< sum << "\nSubtraction = " << sub << "\nDivision = " << div << "\nMultiplication = " << multiple;
+}
