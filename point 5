@@ -1,0 +1,13 @@
+#include
+
+using namespace std;
+
+int main()
+{
+int a = 5, b = 8, c = 2;
+cout << (a+b)(c+(c+ba));
+return 0;
+}
+
+The output of this code is 572
+// والله حليتها من غير كومبايلر ( :
