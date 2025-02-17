@@ -1,0 +1,9 @@
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    cout << "Hello,\tEraasoft\nGroup\t\t\\\"211\"\\";
+    return 0;
+}
